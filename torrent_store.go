@@ -6,7 +6,7 @@ import (
 
 	"github.com/urfave/cli"
 
-	ts "github.com/bcashier/torrent-store"
+	ts "github.com/bcashier/torrent-store/torrent-store"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 	"google.golang.org/grpc"
