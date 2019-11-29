@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	ts "bitbucket.org/vintikzzzz/torrent-store/torrent-store"
+	ts "github.org/bcashier/torrent-store"
 	"github.com/anacrolix/torrent/metainfo"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
